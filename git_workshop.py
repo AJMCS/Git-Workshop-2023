@@ -12,9 +12,9 @@ def incrementNum(num):
     return num
 
 # both people should modify this function
-def func3(num_a, num_b):
-    # do something with inputs and print something
-    print("placeholder output")
+def  multiply(num_a, num_b):
+    result = num_a * num_b
+    print(result)
 
 a = 1
 b = 1
