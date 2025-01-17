@@ -6,9 +6,9 @@ def func1(num_a):
     # placeholder return, replace with your own function
     return -1
 
-def func2(num_b):
-    # placeholder return, replace with your own function
-    return -1
+def incrementNum(num):
+    num += 1
+    return num
 
 # both people should modify this function
 def func3(num_a, num_b):
