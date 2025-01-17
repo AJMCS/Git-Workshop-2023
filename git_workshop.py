@@ -14,7 +14,9 @@ def incrementNum(num):
 # both people should modify this function
 def func3(num_a, num_b):
     # do something with inputs and print something
-    print("placeholder output")
+    sum = num_a + num_b
+    print(sum)
+
 
 a = 1
 b = 1
