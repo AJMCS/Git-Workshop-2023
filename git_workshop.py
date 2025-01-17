@@ -2,9 +2,10 @@ import math
 
 # all functions should take in a numerical value and return a numerical value
 # rename your function
-def func1(num_a):
+def addFour(num_a):
+    num_a += 4
     # placeholder return, replace with your own function
-    return -1
+    return num_a
 
 def func2(num_b):
     # placeholder return, replace with your own function
